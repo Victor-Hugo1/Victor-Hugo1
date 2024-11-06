@@ -6,7 +6,7 @@ Formação em ADS | Instituição SPTech
 
 <div>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=midnight-purple"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Hugo1&layout=compact&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Hugo1&layout=compact&theme=midnight-purple"/>
 </div>
 
 
