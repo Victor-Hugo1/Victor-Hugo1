@@ -1,3 +1,7 @@
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=200&section=header&text=Victor%20Hugo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Dev%20em%20Desenvolvimento&descAlignY=60&descAlign=36&fontColor=FFFFFF"/>
+</p>
+
 ## 👨‍💻Hi!
 
 Meu nome é Victor Hugo.⭐
